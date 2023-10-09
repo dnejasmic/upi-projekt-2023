@@ -1,1 +1,1 @@
-console.log('Pozdrav svijete');
+console.log('Mogu li pushat?');
